@@ -1,0 +1,43 @@
+us-central-bd1.roblox.com,128.116.126.3         us-east-bd1.roblox.com,128.116.116.8
+ams1-128-116-121-3.roblox.com,128.116.121.3
+fra1-128-116-123-3.roblox.com,128.116.123.3     dfw1-128-116-125-3.roblox.com,128.116.125.3     lax1-128-116-116-3.roblox.com,128.116.116.3     sjc1-128-116-117-3.roblox.com,128.116.117.3
+mia1-128-116-127-3.roblox.com,128.116.127.3     hkg1-128-116-118-3.roblox.com,128.116.118.3
+lhr1-128-116-119-3.roblox.com,128.116.119.3
+chi1-128-116-112-44.roblox.com,128.116.112.44
+app55.ra.roblox.com,208.185.116.36
+db109.ra.roblox.com,208.185.173.33
+web209.ra.roblox.com,208.185.116.69
+edge.roblox.com,128.116.10.6
+infrastructure.roblox.com,8.42.96.22
+friendsite.roblox.com,128.116.113.130
+gamesite.roblox.com,128.116.113.42
+avatarsite.roblox.com,128.116.112.40
+o4.email.marketing.roblox.com,168.245.69.127
+o3.email.roblox.com,168.245.101.88
+web1.sm.roblox.com,64.124.125.5
+app4.sm.roblox.com,172.17.252.85
+platinum.roblox.com,128.116.101.4
+eduforum.roblox.com,128.116.114.3
+o5.em8221.devforum.roblox.com,168.245.24.58
+vpn.cn.roblox.com,103.142.221.3
+nrt-gw.vpn.cn.roblox.com,103.142.221.2
+rblxcdn.roblox.com,128.116.124.3
+golden.roblox.com,128.116.102.3
+chi1-origin.roblox.com,209.206.41.228
+search-comparison.roblox.com,10.120.35.75
+midas-iap.roblox.com,128.116.113.97
+app150.rp.roblox.com,216.200.230.198
+app41.rp.roblox.com,64.125.149.163
+pulsar.roblox.com,128.116.101.3
+silver.roblox.com,128.116.114.3
+partners.roblox.com,8.42.96.86
+o6.systemevents.roblox.com,149.72.138.172
+us-central-origin-px.roblox.com,128.116.101.3
+us-central-default-px.roblox.com,128.116.99.4
+web211.ra.roblox.com,208.185.116.71
+web242.ra.roblox.com,208.185.173.119
+web326.ra.roblox.com,208.185.173.130
+web288.ra.roblox.com,208.185.116.76
+web2.sm.roblox.com,64.124.125.6
+web120.p1t.roblox.com,208.185.173.69
+web125.p1t.roblox.com,208.185.173.86
