@@ -7,7 +7,7 @@ This Ubuntu version? 20.04 LTS
 secure? not really
 Vulns? there are a lot of vulns,
 ios security is practically non existent on main client.
-right, roblox on linux is worse with Their APOkI being fucked
+right, roblox on linux is worse with Their API being fucked
 
 # What benefits soloware
 
