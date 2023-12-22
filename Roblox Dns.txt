@@ -1,0 +1,32 @@
+A : 128.116.45.4
+MX : 10 aspmx.l.google.com.
+MX : 30 aspmx5.googlemail.com.
+MX : 30 aspmx4.googlemail.com.
+MX : 30 aspmx3.googlemail.com.                  MX : 30 aspmx2.googlemail.com.
+MX : 20 alt2.aspmx.l.google.com.
+MX : 20 alt1.aspmx.l.google.com.
+NS : dns1.p06.nsone.net.
+NS : dns2.p06.nsone.net.
+NS : dns3.p06.nsone.net.                        NS : dns4.p06.nsone.net.
+NS : ns01.rbxinfra.net.
+NS : ns02.rbxinfra.net.
+NS : ns03.rbxinfra.net.
+NS : ns04.rbxinfra.net.
+TXT : "MS=ms35973480"
+TXT : "google-site-verification=BfkEEZ1dsSAEJIS1yV2prCFgO8zboMYioG1c9VITB5Y"
+TXT : "v=spf1 include:_spf.google.com ip4:50.232.73.154/32 ip4:64.124.125.0/26 ip4:208.185.173.0/24 ip4:208.185.116.0/25 ip4:64.125.149.0/24 ip4:8.42.96.0/24 ip4:216.200.230.0/24 ip4:8.42.100.0/24 include:_spf_20190122.roblox.com include:mail.zendesk.com -all"
+TXT : "dropbox-domain-verification=ek74bxiun7me"
+TXT : "zendeskverification.roblox.com"
+TXT : "docusign=87e6c56c-d05e-49fb-b9e4-44e893597e5a"
+TXT : "atlassian-domain-verification=TRNSmfCcYn22IqU1Q7y4OOU8BMHhZJru/qaj1RRP09wybG/vli6QA/GlDy5DiHlC"
+TXT : "wrike-verification=Mzc5OTIyMTo2MjJkODg0ODc4ZGMzODM1OWUzZWY4NmNkZjRmN2JkNWQwMjQ3MjliYmQ5MjIyMGI2ZDBmY2E3NzJlNzdhMDE5"
+TXT : "apple-domain-verification=2K2yyRHWOTtsNXj8"
+TXT : "ZOOM_verify_lMeKFSo1Tq22CpfWknKT3A"
+TXT : "rpaii9qhgu8k5o721gogq8h4b7"
+TXT : "docker-verification=c4c1f9b2-ec67-4e81-932a-d0901bfe3ec8"
+TXT : "spycloud-domain-verification=92156356-5b94-4b1a-8346-16360c74b060"
+TXT : "slack-domain-verification=tOXc1vdAStyaHLdFO66ghB9rtuFbMcMXaT3RviGB"
+TXT : "asv=3196d2e734455753221e7819d1c081d4"
+TXT : "airtable-verification=76192b13c79bb96bc8dc2c6cc52931a9"
+TXT : "stripe-verification=b4b0304bd523728ef00a8a9701699dc781cb2733d29108637377e5c16e2bb2e6"
+SOA : dns1.p06.nsone.net. hostmaster.nsone.net. 1658181939 3600 600 604800 60
